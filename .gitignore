@@ -1,2 +1,6 @@
 *set_env.sh
 *yarn.lock
+
+*aws-secret.yaml
+*env-configmap.yaml
+*env-secret.yaml
